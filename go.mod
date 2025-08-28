@@ -5,7 +5,7 @@ go 1.25.0
 require (
 	github.com/prometheus/client_golang v1.20.5
 	github.com/stretchr/testify v1.10.0
-	go.uber.org/mock v0.5.2
+	go.uber.org/mock v0.6.0
 	k8s.io/api v0.34.0
 	k8s.io/apimachinery v0.34.0
 	k8s.io/client-go v0.34.0
